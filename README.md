@@ -1,5 +1,9 @@
 # 文件/图片备份
-### 文件
+## 文件
+### 安卓
 - syncthing android 最后一个版本
   [下载](android/syncthing.apk)
+### MacOS
+- alist 桌面版，在卖出前的最后一个版本
+  [alist下载](https://github.com/xigaohu123/file_backup/releases/download/25.06.12/alist.dmg)
 ### 图片
